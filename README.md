@@ -4,7 +4,8 @@ A mesmerizing GLSL shader featuring morphing particle shapes (stars, hearts, spi
 Tested on Ubuntu 24.04 with nVidia driver 550 RTX3090
 
 ## Files
-- `main.c`: OpenGL setup with GLFW/GLEW, including frame capture.
+- `main4k.c`: OpenGL setup with GLFW/GLEW, 4k display resolution.
+- `mainFHD.c` : OpenGL setup "" for 1920x1080 resolution
 - `shader.vert`: Vertex shader.
 - `shader.frag`: Fragment shader with particle morphing.
 - `shader_video.mp4`: Rendered output (1080p).
